@@ -4,3 +4,4 @@
 3. If the path be beautiful, let us not ask where it leads
 4. Create a script that lists environment variables.
 5. Local variables
+6. Local variable
